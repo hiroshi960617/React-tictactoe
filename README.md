@@ -3,8 +3,6 @@
 ![alt-text](https://imgur.com/pnFGz02.jpg)
 
 
-A simple browser-based tic-tac-toe game that depends on a locally-run nodejs server. Done for a school assignment in early 2018. 
-
 ## Steps to run
 
 `cd react-tictactoe` - cd to project folder.
@@ -21,4 +19,3 @@ listening on a specified port (3000). A browser window should open with the URL 
 To run two clients at once, open a new tab with the same URL. The two tabs will now be playing against each
 other.
 
-[Assignment Final Report](https://github.com/johngohrw/react-tictactoe/raw/master/Report_JohnGohRengwu_27150437.pdf) 
